@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	APP_SOCK_PATH = "/var/run/go/go.sock"
+	APP_SOCK_PATH = "/var/run/go.sock"
 	APP_UID       = 1000
 	APP_GID       = 1001
 )
